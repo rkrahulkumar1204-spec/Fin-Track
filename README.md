@@ -158,7 +158,7 @@ d:\FinTrack\
   - `public String getFormattedDate();` (formats as `YYYY-MM-DD`)
 
 ### 2. `Income.java`
-- **Responsibility**: Represents incoming funds.
+- **Responsibility**: incoming funds
 - **Key Methods**:
   - Implements `getType()` returning `"Income"`.
   - Implements `getSignedAmount()` returning `+amount`.
